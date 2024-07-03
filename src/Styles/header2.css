@@ -1,0 +1,91 @@
+.inp{
+    border: solid 1px black;
+    height: 53px;
+    width: 1000px;
+ justify-content: space-evenly;
+ align-items: stretch;
+ background-color: #8f8f8f18;
+
+}
+.fle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.size1{
+    /* margin-top: -2px; */
+    height: 70px;
+    width: 100px;
+  color: black;
+  cursor: pointer;
+}
+.size2{
+    /* margin-top: -2px; */
+    height: 22px;
+    width: 30px;
+  color: black;
+  margin-left: 23px;
+  margin-top: 20px;
+  opacity: 0.7;
+}
+.inpu{
+    border: solid 0px;
+    height: 82%;
+    width: 823px;
+    /* margin-top: -15px; */
+    outline: none;
+    position: relative;
+    top: -6px;
+    left: 10px;
+     font-size: 19px;
+     color:black;
+     background-color: #8f8f8f18;
+     opacity: 0.5;
+}
+.inpu::placeholder{
+   font-size: 19px;
+   /* margin-top: -20px; */
+margin-left: 20px;
+  color:black;
+  opacity: 1.1;
+}
+.inp button{
+    border: 0px solid;
+   height: 100%;
+   width: 120px;
+   /* margin-left: 71px; */
+   color: #fff;
+   background: black;
+   position: relative;
+   top: -11.3px;
+}
+.fle .but{
+border: 1px solid;
+height: 53px;
+width: 100px;
+font-size: 16px;
+}
+.fle .b1{
+    width: 115px;
+   background-color: #fff;
+   padding: 0px 15px 0px 15px; 
+    cursor: pointer;
+}
+.fle .b2{
+     background-color: #fff;
+     border: none;
+   cursor: pointer;
+}
+.fle .b2:hover{
+    opacity: 0.8;
+}
+.fle .b1:hover{
+    
+    opacity: 0.4;
+
+}
+.fle .but a{
+  text-decoration: none;
+  color: black;
+  opacity: 0.8;
+}

@@ -1,0 +1,41 @@
+.foot{
+    display: flex;
+   
+    border-top: 1px black solid;
+    padding-bottom: 50px;
+}
+.fot .np{
+    height: 55px;
+    width: 60px;
+    margin-top: 19px;
+}
+.fot {
+    padding: 1px  30px 40px 30px;
+   margin-top: 20px;
+}
+.foot .f11{
+     padding:0px 30px;
+}
+.foot .f12{
+     padding:0px 250px;
+}
+.foot .f13{
+     padding:0px 100px;
+}
+.tex-ince{
+    font-size: 18px;
+    line-height: 1.76;
+    color:black;
+    opacity:0.8 ;
+}
+  ul #colo{
+   color:black; 
+}
+ .tex-ince li{
+   cursor: pointer;
+}
+.header1{
+    border: solid 5px;
+    width: 100%;
+    border-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff) 3;
+}

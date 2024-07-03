@@ -1,0 +1,23 @@
+.nf .im{
+    display: block;
+    margin: 0px auto;
+    padding-top:50px;
+    height: 150px;
+    width: 150px;
+}
+.nf .hu{
+    text-align: center;
+    font-weight: 600;
+    font-size: 2.3rem;
+    line-height: 1.25;
+    padding: 10px 500px;
+}
+.nf .huu{
+   text-align: center;
+    line-height: 1.5;
+    padding: 1px 470px;
+    font-size: 1.1rem;
+    padding-bottom: 180px;
+    color: black;
+    opacity: 0.8;
+}
