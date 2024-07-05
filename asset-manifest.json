@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nxWebApp/static/css/main.8ddae6c4.css",
+    "main.js": "/nxWebApp/static/js/main.6dd88766.js",
+    "static/media/bg.jpg": "/nxWebApp/static/media/bg.77689c11208981e299a5.jpg",
+    "static/media/bub.jpg": "/nxWebApp/static/media/bub.a0b3033ca8eea1c270fe.jpg",
+    "static/media/chalu.png": "/nxWebApp/static/media/chalu.4889545b5b343c1eccad.png",
+    "index.html": "/nxWebApp/index.html",
+    "main.8ddae6c4.css.map": "/nxWebApp/static/css/main.8ddae6c4.css.map",
+    "main.6dd88766.js.map": "/nxWebApp/static/js/main.6dd88766.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ddae6c4.css",
+    "static/js/main.6dd88766.js"
+  ]
+}
